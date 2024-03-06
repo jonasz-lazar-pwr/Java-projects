@@ -9,12 +9,10 @@
   - Przycisk "Rozwiąż",
   - Pole tekstowe na wynik rozwiązania.
 2. Liczby ai, bi i ci mogą być dodawane wprost (np. 7) lub jako symbole (litery) (np. x).
-3. Rozwiązanie polega na dodaniu wartości wszystkich użytych symboli przez obliczenie układu równań:
-   A⋆B = C ⋆ ∈ {+ − ·}
-   gdzie:
-   A = a1 · 10^2 + a2 · 10 + a3
-   B = b1 · 10^2 + b2 · 10 + b3
-   C = c0 · 10^3 + c1 · 10^2 + c2 · 10 + c3
+3. Rozwiązanie polega na dodaniu wartości wszystkich użytych symboli przez obliczenie układu równań A⋆B = C ⋆ ∈ {+ − ·}, gdzie:
+  - A = a1 · 10^2 + a2 · 10 + a3
+  - B = b1 · 10^2 + b2 · 10 + b3
+  - C = c0 · 10^3 + c1 · 10^2 + c2 · 10 + c3
 
 ## Wymagania:
 - Program ma działać w trybie graficznym, wykorzystującym klasy AWT lub Swing.
