@@ -1,7 +1,3 @@
-// Lista 3, Zad 2
-// Autor: Jonasz Lazar
-// Indeks: 263898
-
 package com.company;
 
 import java.util.Arrays;

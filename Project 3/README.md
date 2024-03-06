@@ -1,9 +1,10 @@
-## Project 3
-### Działanie programu:
+# Project 3
+
+## Działanie programu:
 1. Liczenie wystąpień określonych imion w plikach tekstowych.
 2. Wyświetlenie, ile razy dane imię występuje w danym pliku.
 
-### Wymagania:
+## Wymagania:
 - Program ma działać w trybie tekstowym, wyświetlając wyniki na ekranie.
 - Pliki tekstowe z przynajmniej różnymi imionami (i innymi słowami, tylko angielskie litery, spacje i przejścia do nowej linii) mają być ręcznie wykonane.
 - Nazwy plików (i ich ścieżki, jeśli potrzeba) mają być przekazywane jako argumenty linii wywołania programu.

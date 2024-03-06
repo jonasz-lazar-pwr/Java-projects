@@ -1,7 +1,3 @@
-// Lista 3, Zad 1
-// Autor: Jonasz Lazar
-// Indeks: 263898
-
 /*
  * Interpretacja polecenia i działanie programu:
  * Słowo "sklep" oznacza produkty pobrane z pliku z dostępnymi produktami, do której ma dostęp tylko klient.

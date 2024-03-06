@@ -1,5 +1,6 @@
-## Project 2
-### Działanie programu:
+# Project 2
+
+## Działanie programu:
 1. Wczytanie z pliku tekstowego i wyświetlenie artykułów dostępnych w sklepie.
 2. Użytkownik (klient) składa zamówienie, czyli może:
     - Sprawdzić, czy dany artykuł jest dostępny,
@@ -8,7 +9,7 @@
     - Zrealizować zamówienie (odjąć kupowane artykuły ze stanu sklepu).
 3. Wyświetlenie artykułów dostępnych w sklepie po zrealizowaniu zamówienia i aktualizacja pliku z nimi.
 
-### Wymagania:
+## Wymagania:
 - Program ma działać w trybie tekstowym, wyświetlając wyniki na ekranie.
 - Plik tekstowy z dostępnymi artykułami ma mieć określony format i być ręcznie wykonany.
 - Dane z tego pliku mają być odczytywane przez klasę EasyReader.

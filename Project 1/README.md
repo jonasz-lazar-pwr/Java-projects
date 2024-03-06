@@ -1,19 +1,18 @@
-## Project 1
-### Działanie programu:
+# Project 1
+
+## Działanie programu:
 - Tworzenie listy samochodów z losowo wybranymi parametrami
   - Marka
   - Cena
   - Rocznik
-
 - Użytkownik wybiera kryterium szukania samochodów:
   - Najstarszy
   - Nie starszy niż ROK
   - Najmłodszy
   - Nie młodszy niż ROK (dodając rocznik ROK, jeśli trzeba)
-
 - Wyświetlenie wszystkich znalezionych samochodów (pasujących do wybranego kryterium) z ich opisem.
 
-### Wymagania:
+## Wymagania:
 - Program ma działać w trybie tekstowym, wyświetlając wyniki na ekranie.
 - Każdy samochód (tylko jeden) ma być zdefiniowany przez klasę Samochód.
 - Liczbę tworzonych samochodów ma być odczytana z argumentu z linii wywołania programu.
