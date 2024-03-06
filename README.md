@@ -16,10 +16,10 @@ Wyjątek, zawierający listę znalezionych samochodów, ma być zdefiniowany prz
 Działanie programu:
 1. Wczytanie z pliku tekstowego i wyświetlenie artykułów dostępnych w sklepie.
 2. Użytkownik (klient) składa zamówienie, czyli może: 
-    - Sprawdzić, czy dany artykuł jest dostępny,
-    - Umieścić w koszyku wybrane dostępne (znalezione) artykuły,
-    - Wycenić koszyk zamówienia,
-    - Zrealizować zamówienie (odjąć kupowane artykuły ze stanu sklepu).
+- Sprawdzić, czy dany artykuł jest dostępny,
+- Umieścić w koszyku wybrane dostępne (znalezione) artykuły,
+- Wycenić koszyk zamówienia,
+- Zrealizować zamówienie (odjąć kupowane artykuły ze stanu sklepu).
 3. Wyświetlenie artykułów dostępnych w sklepie po zrealizowaniu zamówienia i aktualizacja pliku z nimi.
 
 Wymagania: Program ma działać w trybie tekstowym, wyświetlając wyniki na ekranie.
