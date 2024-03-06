@@ -6,8 +6,7 @@ Działanie programu:
 2. Użytkownik wybiera kryterium szukania samochodów: najstarszy, nie starszy niż ROK, najmłodszy, nie młodszy niż ROK i dodaje rocznik ROK (jeśli trzeba).
 3. Wyświetlenie wszystkich znalezionych samochodów (pasujących do wybranego kryterium) z ich opisem.
 
-Wymagania: 
-Program ma działać w trybie tekstowym, wyświetlając wyniki na ekranie. Każdy samochód (tylko jeden) ma być zdefiniowany przez klasę Samochód. Liczbę tworzonych samochodów ma być odczytana z argumentu z linii wywołania programu. Metoda szukania samochodów ma być wybrana na podstawie argumentu z linii wywołania programu: 
+Wymagania: Program ma działać w trybie tekstowym, wyświetlając wyniki na ekranie. Każdy samochód (tylko jeden) ma być zdefiniowany przez klasę Samochód. Liczbę tworzonych samochodów ma być odczytana z argumentu z linii wywołania programu. Metoda szukania samochodów ma być wybrana na podstawie argumentu z linii wywołania programu: 
 - R metoda znajduje samochody i zwraca ich listę,
 - W metoda znajduje samochody i wyrzuca wyjątek zawierający ich listę.
 
@@ -23,8 +22,7 @@ Działanie programu:
     - Zrealizować zamówienie (odjąć kupowane artykuły ze stanu sklepu).
 3. Wyświetlenie artykułów dostępnych w sklepie po zrealizowaniu zamówienia i aktualizacja pliku z nimi.
 
-Wymagania:
-Program ma działać w trybie tekstowym, wyświetlając wyniki na ekranie.
+Wymagania: Program ma działać w trybie tekstowym, wyświetlając wyniki na ekranie.
 Plik tekstowy z dostępnymi artykułami ma mieć określony format i być ręcznie wykonany.
 Dane z tego pliku mają być odczytywane przez klasę EasyReader.
 Dane do tego pliku mają być zapisywane przez klasę EasyWriter.
